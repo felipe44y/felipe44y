@@ -1,6 +1,6 @@
 # Welcome, my name is Felipe :wave:.
 
-<img src="https://cdn.pixabay.com/photo/2020/02/26/02/30/brazil-4880477_1280.png" target="_blank" height="32" width="48"> Eu estudo engenharia de software na Universidade Federal do Ceará, no meu tempo livre gosto de estudar <strong>javascript e python.</strong>
+Eu estudo engenharia de software na Universidade Federal do Ceará, no meu tempo livre gosto de estudar <strong>javascript e python.</strong>
 
 ## Portfólio
 <a href="http://portifolio-felipe44y.vercel.app/" target="_blank">
