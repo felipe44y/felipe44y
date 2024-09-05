@@ -20,6 +20,7 @@ Eu estudo engenharia de software na Universidade Federal do Ceará, no meu tempo
   <img align="center" alt="HTMLSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
   <img align="center" alt="CSSSkill" height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
   <img align="center" alt="PythonSkill" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="PythonSkill" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
 ## Stats
